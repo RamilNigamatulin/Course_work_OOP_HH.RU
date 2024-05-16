@@ -1,4 +1,4 @@
-from qwert import *
+from function import *
 
 # Создание экземпляра класса для работы с API сайтов с вакансиями
 hh_api = HeadHunterAPI()
