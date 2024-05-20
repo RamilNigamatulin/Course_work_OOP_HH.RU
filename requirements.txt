@@ -1,0 +1,17 @@
+astroid==3.2.1
+certifi==2024.2.2
+charset-normalizer==3.3.2
+dill==0.3.8
+distlib==0.3.8
+filelock==3.14.0
+idna==3.7
+isort==5.13.2
+mccabe==0.7.0
+platformdirs==4.2.1
+requests==2.31.0
+srs==0.0.2
+tomli==2.0.1
+tomlkit==0.12.5
+typing_extensions==4.11.0
+urllib3==2.2.1
+virtualenv==20.26.1
